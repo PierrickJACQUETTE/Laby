@@ -4,7 +4,7 @@ Le but est d'engendrer des labyrinthes sur une grille hexagonale (cf. figure 1b)
 Sur ces figures, les traits noirs représentent les murs du labyrinthe.
 
 
- /&nbsp;\ / \ / \ / \</br>
+ /&nbsp;\ / \ / \ / \<br/>
             |   |
  \ / \ /     \   \
   |       |       |
